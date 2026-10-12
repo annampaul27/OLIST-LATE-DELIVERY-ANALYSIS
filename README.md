@@ -4,8 +4,6 @@ Which orders arrive late, where, and why? An SQL + Python + Tableau analysis of 
 
 **Live dashboard:** [Olist Late Delivery Dashboard on Tableau Public](https://public.tableau.com/app/profile/anna.m.paul6609/viz/OLIST_17918029783250/Dashboard1)
 
-![Dashboard](images/dashboard.png)
-
 ## Key findings
 
 | Metric | Result |
